@@ -1,0 +1,11 @@
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\izmirmetro\izmirmetro\bin\Debug\izmirmetro.exe.config
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\izmirmetro\izmirmetro\bin\Debug\izmirmetro.exe
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\izmirmetro\izmirmetro\bin\Debug\izmirmetro.pdb
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\izmirmetro\izmirmetro\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\izmirmetro\izmirmetro\bin\Debug\LiteDB.dll
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\izmirmetro\izmirmetro\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\izmirmetro\izmirmetro\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\izmirmetro\izmirmetro\bin\Debug\LiteDB.xml
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\izmirmetro\izmirmetro\obj\Debug\izmirmetro.csprojResolveAssemblyReference.cache
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\izmirmetro\izmirmetro\obj\Debug\izmirmetro.exe
+C:\Users\Onur\Documents\Visual Studio 2017\Projects\izmirmetro\izmirmetro\obj\Debug\izmirmetro.pdb
