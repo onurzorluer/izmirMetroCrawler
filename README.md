@@ -1,2 +1,2 @@
 # izmirMetroCrawler
-İzmir Metro Saatleri Web Crawler
+HTMLAgilityPack ve LiteDB kullanılarak hazırlanmış İzmir Metro Saatleri Web Crawler
